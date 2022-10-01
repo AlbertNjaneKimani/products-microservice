@@ -2,8 +2,11 @@
 ## Description:
  This is a microservice for managing the products. Through this microservice you can 
 Add, Delete, Update and get products. It will communicate with order microservice
-## Technologies/language:
-Java Spring boot, Mysql, microservices,Git
+## Technologies Used
+1. Java
+2. Spring Boot Reactive
+3. MySQL
+4. GIT
 ## It has the following end points
 ```
 1.GET all products http://localhost:8091/product/all
