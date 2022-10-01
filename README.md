@@ -2,7 +2,7 @@
 ## Description:
  This is a microservice for managing the products. Through this microservice you can 
 Add, Delete, Update and get products. It will communicate with order microservice
-## Technologies:
+## Technologies/language:
 Java Spring boot, Mysql, microservices,Git
 ## It has the following end points
 ```
